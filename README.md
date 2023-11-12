@@ -6,3 +6,4 @@
 - [231107 Swift Metatype 이란 무엇일까?!](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231107.md)
 - [231108 indexPath는 무엇일까?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231108.md)
 - [231109 String(describing:) 알아보기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231109.md)
+- [231110 CustomStringConvertible 프로토콜 알아보기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231110.md)
