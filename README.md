@@ -8,3 +8,4 @@
 - [231109 String(describing:) 알아보기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231109.md)
 - [231110 CustomStringConvertible 프로토콜 알아보기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231110.md)
 - [231113 UIInterfaceOrientationMask를 사용하여 화면 회전 처리 하기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231113.md)
+- [231114 CaseIterable 프로토콜 알아보기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231114.md)
