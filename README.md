@@ -13,3 +13,4 @@
 - [231116 SOLID 원칙 알아보기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231116.md)
 - [231117 Protocol 에 프로퍼티 선언시 get, set 의 차이점](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231117.md)
 - [231120 의존성 주입 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231120.md)
+- [231122 awakeFromNib() 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231122.md)
