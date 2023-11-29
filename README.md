@@ -15,3 +15,4 @@
 - [231120 의존성 주입 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231120.md)
 - [231122 components() VS split()](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231122.md)
 - [231128 Equtable 프로토콜](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231128.md)
+- [231129 LocalizedError 프로토콜 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231129.md)
