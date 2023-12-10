@@ -16,3 +16,4 @@
 - [231122 components() VS split()](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231122.md)
 - [231128 Equtable 프로토콜 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231128.md)
 - [231129 LocalizedError 프로토콜 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231129.md)
+- [231209 인터넷 네트워크(Internet Network) 정리](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/12%EC%9B%94/231209.md)
