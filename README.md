@@ -24,6 +24,7 @@
 - [231214 HTTP Method 정리](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/12%EC%9B%94/231214.md)
 - [231215 HTTP 상태코드](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/12%EC%9B%94/231215.md)
 - [231220 HTTP Header part1](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/12%EC%9B%94/231220.md)
+- [231221 HTTP Header part2](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/12%EC%9B%94/231221.md)
 
 
 ## 🔎 2024년
