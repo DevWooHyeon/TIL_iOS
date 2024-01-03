@@ -30,4 +30,4 @@
 ## 🔎 2024년
 
 - [240103 Navigation Bar 코드로 구현하기(Programmatically)](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240103.md)
-- [240104 leading(left),trailing(right) 차이점과 나눠놓은 이유!](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240104.md)
+- [240104 leading(left),trailing(right) 차이점!](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240104.md)
