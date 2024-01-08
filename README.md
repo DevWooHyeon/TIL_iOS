@@ -32,3 +32,4 @@
 - [240103 Navigation Bar 코드로 구현하기(Programmatically)](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240103.md)
 - [240104 leading(left),trailing(right) 차이점!](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240104.md)
 - [240105 keyboard 가 view 를 가리는 경우 해결방법](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240105.md)
+- [240108 Xcode 에서 Storyboard 파일 삭제하기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240108.md)
