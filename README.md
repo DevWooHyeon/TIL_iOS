@@ -1,6 +1,10 @@
 # 🔥 Today I Learn!!
 
+
+  
 ## 🔎 2023년
+<details>
+<summary>Details</summary>
 
 - [231102 특정 ViewController에서 Navigation Bar 숨기기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231102.md)
 - [231103 NameSpace사용방법 및 enum VS struct](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231103.md)
@@ -27,10 +31,16 @@
 - [231221 HTTP Header part2](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/12%EC%9B%94/231221.md)
 - [231228 URLSession 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/12%EC%9B%94/231228.md)
 
+</details>
+  
 ## 🔎 2024년
-
+<details>
+<summary>Details</summary>
+  
 - [240103 Navigation Bar 코드로 구현하기(Programmatically)](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240103.md)
 - [240104 leading(left),trailing(right) 차이점!](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240104.md)
 - [240105 keyboard 가 view 를 가리는 경우 해결방법](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240105.md)
 - [240108 Xcode 에서 Storyboard 파일 삭제하기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240108.md)
 - [240112 TableView swipe button 만들기](https://github.com/DevWooHyeon/TIL_iOS/blob/main/2024%EB%85%84/1%EC%9B%94/240112.md)
+
+</details>
