@@ -25,12 +25,14 @@
 - [231128 Equtable 프로토콜 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231128.md)
 - [231129 LocalizedError 프로토콜 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231129.md)
 - [231228 URLSession 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/12%EC%9B%94/231228.md)
+- [240115 Core Data 알아보기](https://github.com/DevWooHyeon/TIL_iOS/blob/main/2024%EB%85%84/1%EC%9B%94/240115.md)
 
 </details>
 
 **Documentation**
 - [Swift Standard Library](https://developer.apple.com/documentation/swift/swift-standard-library)   
 - [Foundation Framework](https://developer.apple.com/documentation/foundation/)
+- [Core Data Framework](https://developer.apple.com/documentation/coredata/)
 
 
 ## 🛠️ UIKit
