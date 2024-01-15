@@ -10,7 +10,7 @@
 ## 📑 Swift
 
 <details>
-<summary>Details</summary>
+<summary>TIL</summary>
 
 - [231107 Swift Metatype 이란 무엇일까?!](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231107.md)
 - [231109 String(describing:) 알아보기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231109.md)
@@ -25,10 +25,15 @@
 
 </details>
 
+**Documentation**
+- [Swift Standard Library](https://developer.apple.com/documentation/swift/swift-standard-library)   
+- [Foundation Framework](https://developer.apple.com/documentation/foundation/)
+
+
 ## 🛠️ UIKit
 
 <details>
-<summary>Details</summary>
+<summary>TIL</summary>
   
 - [231102 특정 ViewController에서 Navigation Bar 숨기기](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231102.md)
 - [231106 UIAlertController 사용방법](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231106.md)
@@ -40,18 +45,25 @@
 
 </details>
 
+**Documentation**
+- [UIKit Framework](https://developer.apple.com/documentation/uikit/)
+
 ## 🛠️ SwiftUI
 
 <details>
-<summary>Details</summary>
+<summary>TIL</summary>
 
 
 </details>
 
+**Documentation**
+- [SwiftUI Framework](https://developer.apple.com/documentation/swiftui/)
+
+
 ## 🔗 Reference
 
 <details>
-<summary>Details</summary>
+<summary>TIL</summary>
 
 - [231103 NameSpace사용방법 및 enum VS struct](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231103.md)
 - [231115 Given, When, Then 패턴 이란?](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2023%EB%85%84/11%EC%9B%94/231115.md)
@@ -67,3 +79,4 @@
 - [240104 leading(left),trailing(right) 차이점!](https://github.com/DevWooHyeon/TodayILearn_TIL/blob/main/2024%EB%85%84/1%EC%9B%94/240104.md)
 
 </details>
+
