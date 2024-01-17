@@ -9,7 +9,7 @@
 - [SwiftUI](#-SwiftUI)
 - [Reference](#-Reference)
 
- https://github.com/Developer-Nova/TIL_iOS/blob/main/2023%EB%85%84/11%EC%9B%94/231107.md
+
 ## 📑 Swift
 
 <details>
