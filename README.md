@@ -59,7 +59,7 @@
 
 |Title|
 |-----|
-|[24.03.05 Text](https://github.com/Developer-Nova/TIL_iOS/blob/main/2024%EB%85%84/3%EC%9B%94/240305.md)|
+|[24.03.05 Text 알아보기](https://github.com/Developer-Nova/TIL_iOS/blob/main/2024%EB%85%84/3%EC%9B%94/240305.md)|
 
 #### Documentation
 
